@@ -6,7 +6,7 @@ public class A_FirstJavaProgram {
 		//영어 
 		System.out.println("Welcome Java");
 		System.out.println("First Java Program");
-
+		System.out.println(3+5);
 	}
 
 }
